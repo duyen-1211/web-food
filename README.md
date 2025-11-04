@@ -6,8 +6,7 @@ This project was created to practice front-end development and UI design for foo
 ---
 
 ## 🔗 Live Demo
-👉 [View the Project Here]([https://your-demo-link.com](https://heroic-quokka-d4df78.netlify.app/))  
-*(Replace with your Netlify/Vercel link once deployed)*
+👉 [View the Project Here]([https://your-demo-link.com](https://heroic-quokka-d4df78.netlify.app/)  
 
 ---
 
